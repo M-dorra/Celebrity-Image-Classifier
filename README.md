@@ -27,6 +27,6 @@ A machine learning project that classifies celebrity images using traditional co
 
 
 ![Screenshot 2025-06-16 192409](https://github.com/user-attachments/assets/234cc4ca-4dad-493b-8b0d-088d19d8c89b)
-![Screenshot 2025-06-16 192409](https://github.com/user-attachments/assets/234cc4ca-4dad-493b-8b0d-088d19d8c89b)
-![Screenshot 2025-06-16 192443](https://github.com/user-attachments/assets/2ee7373d-acba-480b-9a28-192c7076d4b4)
+
+
 ![Screenshot 2025-06-16 192443](https://github.com/user-attachments/assets/2ee7373d-acba-480b-9a28-192c7076d4b4)
